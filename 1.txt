@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.  
 What!!
 Creating a new brach is quick and simple.
+You are just playing guitar.
 
